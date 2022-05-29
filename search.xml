@@ -1,6 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DAY0-Typora学习</title>
+    <url>/2021/12/04/DAY0-Typora%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h1 id="Typora使用"><a href="#Typora使用" class="headerlink" title="Typora使用"></a>Typora使用</h1><h2 id="快捷键指令"><a href="#快捷键指令" class="headerlink" title="快捷键指令"></a>快捷键指令</h2><span id="more"></span>
+<ol>
+<li>Ctrl+1、2、3…对应一、二、三…级标题（光标定位到需要设置为标题的行，按快捷键）</li>
+<li><strong>加粗</strong>：Ctrl+B（选中要加粗的文本，按快捷键）</li>
+<li>*<a href="https://www.zhihu.com/search?q=%E6%96%9C%E4%BD%93&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">斜体</a>*：Ctrl+I（选中要设置斜体的文本，按快捷键）</li>
+<li><a href="https://www.zhihu.com/search?q=%E4%B8%8B%E5%88%92%E7%BA%BF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">下划线</a>：Ctrl+U（选中要加下划线的文本，按快捷键）</li>
+<li>删除线：Alt+Shift+5（选中要加删除线的文本，按快捷键）</li>
+<li><code>代码片段</code>：Ctrl+Shift+`（选中要设置为<a href="https://www.zhihu.com/search?q=%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">代码片段</a>的文本，按快捷键）</li>
+<li>代码块：Ctrl+Shift+K（任意位置按快捷键，选择编程语言然后在代码块中输入代码）</li>
+<li>切换到下一行：Ctrl+Enter（任意位置按快捷键，在代码块中可以跳出代码块另起一行）</li>
+<li><a href="https://link.zhihu.com/?target=https://www.baidu.com/">链接</a>：Ctrl+K（先复制链接，然后选中要加链接的文本，按快捷键。Ctrl+左键点击文本可跳转到对应链接）</li>
+<li>取消格式：再次按相同的快捷键即可</li>
+<li>有序列表：数字+点+空格</li>
+<li>任务列表：加号或减号+空格</li>
+<li>切换到列表下一行：Space+Enter</li>
+<li><a href="https://www.zhihu.com/search?q=%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">嵌套列表</a>：按Tab键<ol>
+<li></li>
+<li></li>
+</ol>
+</li>
+<li>退出列表：按 Shift+Tab</li>
+<li>插入表格：Ctrl+T</li>
+<li>引用：输入&gt;后面加空格，或者Ctrl+Shift+Q</li>
+</ol>
+<h2 id="1-命令"><a href="#1-命令" class="headerlink" title="1.命令"></a>1.命令</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><ul>
+<li>‘#’+’空格’——一级标题</li>
+</ul>
+<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul>
+<li>‘##’+’空格’——二级标题</li>
+</ul>
+<h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><ul>
+<li>以此类推至多六级标题</li>
+</ul>
+<h2 id="2-字体"><a href="#2-字体" class="headerlink" title="2.字体"></a>2.字体</h2><ul>
+<li><strong>粗体</strong></li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;**&#x27;</span>+内容+<span class="string">&#x27;**&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><em>斜体</em></li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;*&#x27;</span>内容<span class="string">&#x27;*&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><em><strong>斜体加粗</strong></em></li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;***&#x27;</span>+内容+<span class="string">&#x27;***&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><del>字体删去线</del></li>
+</ul>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;~~~&#x27;</span>+内容+<span class="string">&#x27;~~~&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="3-引用"><a href="#3-引用" class="headerlink" title="3.引用"></a>3.引用</h2><blockquote>
+<p>时间往事</p>
+</blockquote>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;&gt;&#x27;</span>+内容</span><br></pre></td></tr></table></figure>
+
+<h2 id="4-分割线"><a href="#4-分割线" class="headerlink" title="4.分割线"></a>4.分割线</h2><hr>
+<hr>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;---&#x27;</span>/<span class="string">&#x27;***&#x27;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p><img src="https://img-home.csdnimg.cn/images/20211202034624.jpg" alt="图片1"></p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;!&#x27;</span>+[图片名]+(图片路径)——本地图片/网络图片</span><br></pre></td></tr></table></figure>
+
+<p>![截图](E:\Ablog\source_posts\DAY0-Typora学习\屏幕截图 2021-12-04 195419.png)</p>
+<h2 id="6-超链接"><a href="#6-超链接" class="headerlink" title="6.超链接"></a>6.超链接</h2><p><a href="https://www.bilibili.com/">bilibili</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;[命名]&#x27;+(地址)——按住ctrl+单击左键打开</span><br></pre></td></tr></table></figure>
+
+<h2 id="7-列表"><a href="#7-列表" class="headerlink" title="7.列表"></a>7.列表</h2><ol>
+<li>a</li>
+<li>3</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;1.&#x27;+空格+内容</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>a</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;-&#x27;+空格</span><br></pre></td></tr></table></figure>
+
+<p>shift+tab取消缩进</p>
+<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">​```+J/C选择语言，回车</span><br><span class="line">or```+回车</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+]]></content>
+  </entry>
+  <entry>
     <title>DAY0-dos指令</title>
     <url>/2021/12/04/DAY0-dos%E6%8C%87%E4%BB%A4/</url>
     <content><![CDATA[<h1 id="常用DOS指令"><a href="#常用DOS指令" class="headerlink" title="常用DOS指令"></a>常用DOS指令</h1><ol>
@@ -166,122 +282,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>DAY0-Typora学习</title>
-    <url>/2021/12/04/DAY0-Typora%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h1 id="Typora使用"><a href="#Typora使用" class="headerlink" title="Typora使用"></a>Typora使用</h1><h2 id="快捷键指令"><a href="#快捷键指令" class="headerlink" title="快捷键指令"></a>快捷键指令</h2><span id="more"></span>
-<ol>
-<li>Ctrl+1、2、3…对应一、二、三…级标题（光标定位到需要设置为标题的行，按快捷键）</li>
-<li><strong>加粗</strong>：Ctrl+B（选中要加粗的文本，按快捷键）</li>
-<li>*<a href="https://www.zhihu.com/search?q=%E6%96%9C%E4%BD%93&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">斜体</a>*：Ctrl+I（选中要设置斜体的文本，按快捷键）</li>
-<li><a href="https://www.zhihu.com/search?q=%E4%B8%8B%E5%88%92%E7%BA%BF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">下划线</a>：Ctrl+U（选中要加下划线的文本，按快捷键）</li>
-<li>删除线：Alt+Shift+5（选中要加删除线的文本，按快捷键）</li>
-<li><code>代码片段</code>：Ctrl+Shift+`（选中要设置为<a href="https://www.zhihu.com/search?q=%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">代码片段</a>的文本，按快捷键）</li>
-<li>代码块：Ctrl+Shift+K（任意位置按快捷键，选择编程语言然后在代码块中输入代码）</li>
-<li>切换到下一行：Ctrl+Enter（任意位置按快捷键，在代码块中可以跳出代码块另起一行）</li>
-<li><a href="https://link.zhihu.com/?target=https://www.baidu.com/">链接</a>：Ctrl+K（先复制链接，然后选中要加链接的文本，按快捷键。Ctrl+左键点击文本可跳转到对应链接）</li>
-<li>取消格式：再次按相同的快捷键即可</li>
-<li>有序列表：数字+点+空格</li>
-<li>任务列表：加号或减号+空格</li>
-<li>切换到列表下一行：Space+Enter</li>
-<li><a href="https://www.zhihu.com/search?q=%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22:%22article%22,%22sourceId%22:156915260%7D">嵌套列表</a>：按Tab键<ol>
-<li></li>
-<li></li>
-</ol>
-</li>
-<li>退出列表：按 Shift+Tab</li>
-<li>插入表格：Ctrl+T</li>
-<li>引用：输入&gt;后面加空格，或者Ctrl+Shift+Q</li>
-</ol>
-<h2 id="1-命令"><a href="#1-命令" class="headerlink" title="1.命令"></a>1.命令</h2><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><ul>
-<li>‘#’+’空格’——一级标题</li>
-</ul>
-<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><ul>
-<li>‘##’+’空格’——二级标题</li>
-</ul>
-<h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><ul>
-<li>以此类推至多六级标题</li>
-</ul>
-<h2 id="2-字体"><a href="#2-字体" class="headerlink" title="2.字体"></a>2.字体</h2><ul>
-<li><strong>粗体</strong></li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;**&#x27;</span>+内容+<span class="string">&#x27;**&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><em>斜体</em></li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;*&#x27;</span>内容<span class="string">&#x27;*&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><em><strong>斜体加粗</strong></em></li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;***&#x27;</span>+内容+<span class="string">&#x27;***&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><del>字体删去线</del></li>
-</ul>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;~~~&#x27;</span>+内容+<span class="string">&#x27;~~~&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="3-引用"><a href="#3-引用" class="headerlink" title="3.引用"></a>3.引用</h2><blockquote>
-<p>时间往事</p>
-</blockquote>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;&gt;&#x27;</span>+内容</span><br></pre></td></tr></table></figure>
-
-<h2 id="4-分割线"><a href="#4-分割线" class="headerlink" title="4.分割线"></a>4.分割线</h2><hr>
-<hr>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;---&#x27;</span>/<span class="string">&#x27;***&#x27;</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="5-图片"><a href="#5-图片" class="headerlink" title="5.图片"></a>5.图片</h2><p><img src="https://img-home.csdnimg.cn/images/20211202034624.jpg" alt="图片1"></p>
-<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="string">&#x27;!&#x27;</span>+[图片名]+(图片路径)——本地图片/网络图片</span><br></pre></td></tr></table></figure>
-
-<p>![截图](E:\Ablog\source_posts\DAY0-Typora学习\屏幕截图 2021-12-04 195419.png)</p>
-<h2 id="6-超链接"><a href="#6-超链接" class="headerlink" title="6.超链接"></a>6.超链接</h2><p><a href="https://www.bilibili.com/">bilibili</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;[命名]&#x27;+(地址)——按住ctrl+单击左键打开</span><br></pre></td></tr></table></figure>
-
-<h2 id="7-列表"><a href="#7-列表" class="headerlink" title="7.列表"></a>7.列表</h2><ol>
-<li>a</li>
-<li>3</li>
-</ol>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;1.&#x27;+空格+内容</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>a</li>
-</ul>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;-&#x27;+空格</span><br></pre></td></tr></table></figure>
-
-<p>shift+tab取消缩进</p>
-<h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">​```+J/C选择语言，回车</span><br><span class="line">or```+回车</span><br></pre></td></tr></table></figure>
-
-
-
-
-
 ]]></content>
   </entry>
 </search>
