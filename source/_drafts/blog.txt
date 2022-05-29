@@ -1,0 +1,14 @@
+npm config set prefix "E:\blog\nodejs\node_global"
+npm config set cache "E:\blog\nodejs\node_cache"
+
+E:\blog\nodejs\node_global\node_modules
+
+
+C:\Program Files\Bandizip\
+
+
+npm config set prefix "E:\blog\nodejs\node_global" 
+
+npm config set cache "E:\blog\nodejs\node_cache"
+
+令牌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
