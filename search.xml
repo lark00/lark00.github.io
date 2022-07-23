@@ -285,7 +285,7 @@
 <li><p><input disabled type="checkbox">  7、松紧绳、绳子。</p>
 </li>
 <li><p><input checked disabled type="checkbox">  8、水壶、保温水壶、骑行水袋</p>
-</li>
+<span id="more"></span></li>
 </ul>
 <h4 id="二、自身装备。"><a href="#二、自身装备。" class="headerlink" title="二、自身装备。"></a>二、自身装备。</h4><ul>
 <li><input checked disabled type="checkbox"> 1、头盔。</li>
