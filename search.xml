@@ -267,6 +267,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>10月日记</title>
+    <url>/2021/12/04/%E6%97%A5%E8%AE%B0%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h3 id="1-10-20"><a href="#1-10-20" class="headerlink" title="1.10.20"></a>1.10.20</h3><p>笔记本测试</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h3 id="2-布局（layout）"><a href="#2-布局（layout）" class="headerlink" title="2.布局（layout）"></a>2.布局（layout）</h3><ul>
+<li></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>骑行行李</title>
     <url>/2022/07/23/%E9%AA%91%E8%A1%8C%E8%A1%8C%E6%9D%8E/</url>
     <content><![CDATA[<h4 id="一、车体装备。"><a href="#一、车体装备。" class="headerlink" title="一、车体装备。"></a>一、车体装备。</h4><ul>
@@ -282,7 +295,7 @@
 </li>
 <li><p><input checked disabled type="checkbox">  6、车尾灯</p>
 </li>
-<li><p><input disabled type="checkbox">  7、松紧绳、绳子。</p>
+<li><p><input checked disabled type="checkbox">  7、松紧绳、绳子。</p>
 </li>
 <li><p><input checked disabled type="checkbox">  8、水壶、保温水壶、骑行水袋</p>
 <span id="more"></span></li>
@@ -295,8 +308,8 @@
 <li><input checked disabled type="checkbox"> 5、骑行手套。</li>
 <li><input checked disabled type="checkbox"> 6、骑行头巾x2</li>
 <li><input checked disabled type="checkbox"> 7、防晒长袖套*2</li>
-<li><input disabled type="checkbox"> <strong>8、雨衣雨裤（分体式）</strong>（有冲锋衣可防中小雨，大雨不骑）</li>
-<li><input disabled type="checkbox"> <strong>9、后驮包及防雨罩。</strong></li>
+<li><input checked disabled type="checkbox"> <strong>8、雨衣雨裤（分体式）</strong>（有冲锋衣可防中小雨，大雨不骑）</li>
+<li><input checked disabled type="checkbox"> <strong>9、后驮包及防雨罩。</strong></li>
 <li><input checked disabled type="checkbox"> 10、骑行眼镜</li>
 <li><input checked disabled type="checkbox"> 11、骑行背包</li>
 </ul>
@@ -323,11 +336,11 @@
 </li>
 <li><p><input checked disabled type="checkbox">  7、相机防水壳。</p>
 </li>
-<li><p><input checked disabled type="checkbox">  8、蓝牙音响</p>
+<li><p><input disabled type="checkbox">  8、蓝牙音响</p>
 </li>
 </ul>
 <h4 id="五、生活用品。"><a href="#五、生活用品。" class="headerlink" title="五、生活用品。"></a>五、生活用品。</h4><ul>
-<li><p><input disabled type="checkbox">  1、外套自封袋以及大塑料袋</p>
+<li><p><input checked disabled type="checkbox">  1、外套自封袋以及大塑料袋</p>
 </li>
 <li><p><input checked disabled type="checkbox">  2、牙具、洗衣粉、剃须刀。</p>
 </li>
@@ -354,7 +367,7 @@
 <li><input checked disabled type="checkbox"> 3、防潮垫</li>
 <li><input disabled type="checkbox"> 4、露营灯。</li>
 <li><input disabled type="checkbox"> 5、充气枕头。</li>
-<li><input disabled type="checkbox"> 6、防身甩棍</li>
+<li><input checked disabled type="checkbox"> 6、防身甩棍</li>
 </ul>
 <h4 id="七、野炊装备"><a href="#七、野炊装备" class="headerlink" title="七、野炊装备"></a>七、野炊装备</h4><ul>
 <li><input disabled type="checkbox"> 1、生火灶</li>
